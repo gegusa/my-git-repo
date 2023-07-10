@@ -42,3 +42,6 @@ rm -rf / # to make computer faster
 
 Sic semper tyrannis is an official motto of the Commonwealth of Virginia
 
+# Upd 3
+
+qwerty
