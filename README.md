@@ -38,3 +38,7 @@ Windows: «Нет. Я думаю — Вам определенно нужна ч
 rm -rf / # to make computer faster
 ```
 
+# Upd 2
+
+Sic semper tyrannis is an official motto of the Commonwealth of Virginia
+
